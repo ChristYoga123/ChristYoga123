@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm Yoga and I'm 19 y.o
+Nice to meet y'all
+
+🌱 I’m currently learning Python, PHP, Javascript, Laravel, Nodejs, Flutter
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristYoga123)](https://github.com/ChristYoga123/github-readme-stats)
