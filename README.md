@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ### I'm Yoga and I'm 19 y.o
 Nice to meet y'all
 
-🌱 I’m currently learning Python, PHP, Javascript, Laravel, Nodejs, Flutter
-
 # 💫 About Me:
 I'm currently focusing on Website Development and Data Science.<br><br>Currently learn about HTML, CSS, Javascript, PHP, Laravel, and Python
 
