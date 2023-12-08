@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Yoga and I'm 19 y.o
+### I'm Yoga and I'm 21 y.o
 Nice to meet y'all
 
 # 💫 About Me:
