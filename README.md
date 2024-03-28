@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Nice to meet y'all
 
 # 💫 About Me:
-I'm currently focusing on Website Development and Data Science.<br><br>Currently learn about HTML, CSS, Javascript, PHP, Laravel, and Python
+I'm currently focusing on Backend Development using Golang, Java, C#, and PHP
 
 
 ## 🌐 Socials:
