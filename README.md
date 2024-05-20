@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Yoga and I'm 21 y.o
-Nice to meet y'all
+Nice to meet you all
 
 # 💫 About Me:
-I'm currently focusing on Backend Development using Golang, Java, C#, and PHP
+I am a passionate Backend Developer with a focus on crafting robust and scalable web applications. My expertise lies in utilizing a diverse tech stack to engineer solutions that meet the demands of modern businesses.
+
+- Polyglot Programmer: Proficient in multiple backend languages including Golang, Java (Spring Boot), C# (ASP.NET), and PHP (Laravel). My versatility allows me to adapt to various project requirements with ease.
+- Database Mastery: Skilled in managing data across a range of databases such as MySQL, MongoDB, Redis, and Elastic Search. I ensure data integrity and optimize performance through effective database design and querying.
+- Problem Solver: With a knack for troubleshooting and a commitment to continuous learning, I tackle complex backend challenges and contribute to all phases of the development lifecycle.
+Collaborative Spirit: I thrive in team settings, where I can collaborate with cross-functional teams to deliver high-quality software that aligns with user needs and business goals.
+
+Let’s connect and explore how my backend development skills can drive your project to success!
 
 
 ## 🌐 Socials:
